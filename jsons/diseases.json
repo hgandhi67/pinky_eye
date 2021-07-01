@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Not a Pink Eye",
+    "color": "0xffffcb01",
+    "Risk Factor": "Low",
+    "Description": "Your image has been processed and was determined to be negative for pink eye.\n\nHowever, it may be a different condition.\n\nAlways refer to a doctor.\n",
+    "InfoTitle": "What is a Pink Eye?",
+    "Info": "Conjunctivitis, or pink eye, is an irritation or inflammation of the conjunctiva, which covers the white part of the eyeball. It can be caused by allergies, or a bacterial or viral infection. Conjunctivitis can be extremely contagious, and is spread by contact with eye secretions from someone who is infected.\n\nHow it spreads:\nBy touching a contaminated surface (pillows, doorknobs)\nBy skin-to-skin contact (handshakes or hugs)\n",
+    "Symptoms": [
+      "Symptoms include redness, itching, and tearing of the eyes. It can also lead to discharge or crusting around the eyes"
+    ],
+    "Causes": [
+      "Irritants such as shampoos, dirt, smoke, and pool chlorine",
+      "Bacterias or Viruses, including the kind that causes the common cold",
+      "An allergic reaction to things like pollen, dust, or smoke",
+      "A reaction to eye-drops or contact lenses"
+    ],
+    "Actions": [
+      "Warm compresses applied to the eyes can help relieve symptoms",
+      "OTC treatments like artificial tears (eyedrops) can also bring relief",
+      "Avoid wearing contact lenses until the pinkeye has resolved",
+      "A health care professional can offer guidance about when it is safe to resume the use of contact lenses",
+      "Cosmetic creams should also be avoided in the eye area until the symptoms and signs have resolved"
+    ],
+    "images": []
+  },
+  {
+    "id": 2,
+    "name": "Bacterial or Viral Conjunctivitis",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Your eye image has been processed and was determined to be pink eye.\n\nOur prediction is Bacterial or Viral Pink eye.\n\nHowever, it may be a different eye condition.\n\nAlways refer to a doctor.\n",
+    "InfoTitle": "What is a Bacterial or Viral Pink Eye?",
+    "Info": "Bacterial conjunctivitis is a common type of pink eye, caused by bacteria that infect the eye through various sources of contamination. The bacteria can be spread through contact with an infected individual, exposure to contaminated surfaces or through other means such as sinus or ear infections.\nViral conjunctivitis is a highly contagious acute conjunctival infection usually caused by adenovirus. Symptoms include irritation, photophobia, and watery discharge. Diagnosis is clinical; sometimes viral cultures or immunodiagnostic testing is indicated.\n\n\nHow it spreads:\nBy touching a contaminated surface (blanket or doorknob)\nBy skin-to-skin contact (handshakes or hugs)\n",
+    "Symptoms": [
+      "Symptoms include redness, itching, and tearing of the eyes. It can also lead to discharge or crusting around the eyes"
+    ],
+    "Causes": [
+      "Irritants such as shampoos, dirt, smoke, and pool chlorine",
+      "Bacterias or Viruses, including the kind that causes the common cold",
+      "An allergic reaction to things like pollen, dust, or smoke",
+      "A reaction to eye-drops or contact lenses"
+    ],
+    "Actions": [
+      "Moist warm compresses applied to the eyes can help relieve symptoms",
+      "OTC treatments like artificial tears (eyedrops) can also bring relief",
+      "Avoid wearing contact lenses until the pinkeye has resolved",
+      "A health care professional can offer guidance about when it is safe to resume the use of contact lenses",
+      "Cosmetic creams should also be avoided in the eye area until the symptoms and signs have resolved"
+    ],
+    "images": []
+  },
+  {
+    "id": 3,
+    "name": "Allergic Conjunctivitis",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Your image has been processed and was determined to be pink eye.\n\nOur prediction is Pink eye caused by allergies.\n\nHowever, it may be a different eye condition.\n\nAlways refer to a doctor.\n",
+    "InfoTitle": "What is an Allergic Pink Eye?",
+    "Info": "Conjunctivitis, or pink eye, is an irritation or inflammation of the conjunctiva, which covers the white part of the eyeball. It can be caused by allergies or a bacterial or viral infection. Conjunctivitis can be extremely contagious, and is spread by contact with eye secretions from someone who is infected.\nAllergic conjunctivitis is an eye inflammation caused by an allergic reaction to substances like pollen or mold spores. The inside of your eyelids and the covering of your eyeball have a membrane called the conjunctiva. The conjunctiva is susceptible to irritation from allergens, especially during hay fever season.\n\nHow it spreads:\nBy touching a contaminated surface (blanket or doorknob)\nBy skin-to-skin contact (handshakes or hugs)\n",
+    "Symptoms": [
+      "Symptoms include redness, itching, and tearing of the eyes. It can also lead to discharge or crusting around the eyes"
+    ],
+    "Causes": [
+      "Irritants such as shampoos, dirt, smoke, and pool chlorine",
+      "Bacterias or Viruses, including the kind that causes the common cold",
+      "An allergic reaction to things like pollen, dust, or smoke",
+      "A reaction to eye-drops or contact lenses"
+    ],
+    "Actions": [
+      "Moist warm compresses applied to the eyes can help relieve symptoms",
+      "OTC treatments like artificial tears (eyedrops) can also bring relief",
+      "Avoid wearing contact lenses until the pinkeye has resolved",
+      "A health care professional can offer guidance about when it is safe to resume the use of contact lenses",
+      "Cosmetic creams should also be avoided in the eye area until the symptoms and signs have resolved"
+    ],
+    "images": []
+  }
+]
+

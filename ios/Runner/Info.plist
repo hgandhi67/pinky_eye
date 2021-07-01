@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Pinky Eye</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+    <array>
+    	<dict>
+    		<key>CFBundleTypeRole</key>
+    		<string>Editor</string>
+    		<key>CFBundleURLSchemes</key>
+    		<array>
+    			<string>com.googleusercontent.apps.809934640455-76lo9ottgail54jtjp8eq8r79839rtve</string>
+    		</array>
+    	</dict>
+    	<dict>
+    		<key>CFBundleTypeRole</key>
+   			<string>Editor</string>
+   			<key>CFBundleURLSchemes</key>
+   			<array/>
+   		</dict>
+   	</array>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>comgooglemaps</string>
+		<string>googlegmail</string>
+		<string>iosamap</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+    <dict>
+   		<key>NSAllowsArbitraryLoads</key>
+   		<true/>
+    </dict>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>Play Music</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Please provide the calender permission for access calender</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Permission for camera for clicking images of eye</string>
+    <key>NSContactsUsageDescription</key>
+    <string>Please provide the contact permission</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Please provide the location permission for getting the nearest medical stores</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Please provide the location permission for getting the nearest medical stores</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Please provide the location permission for getting the nearest medical stores</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Please provide the location permission for getting the nearest medical stores</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Permission to capture audio along with video for eye</string>
+    <key>NSMotionUsageDescription</key>
+    <string>Please provide the motion usage permission</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Permission to pick image of eye from the device</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Please provide the speech recognition permission</string>
+    <key>UIBackgroundModes</key>
+    <array>
+    	<string>remote-notification</string>
+    </array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Please provide the music permission</string>
+	<key>LSApplicationQueriesSchemes</key>
+    <array>
+            <string>itms-beta</string>
+            <string>itms</string>
+    </array>
+    <key>GADApplicationIdentifier</key>
+    <string>ca-app-pub-5252835281622410~8484167825</string>
+    <key>io.flutter.embedded_views_preview</key>
+    <true/>
+</dict>
+</plist>

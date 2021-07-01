@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809934640455",
+    "firebase_url": "https://pinkyeye-39fab.firebaseio.com",
+    "project_id": "pinkyeye-39fab",
+    "storage_bucket": "pinkyeye-39fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809934640455:android:9de3b8c0920940e12e2862",
+        "android_client_info": {
+          "package_name": "com.data245.pinkyeye.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809934640455-60oldpoqpfj0c42r6mhb9virefvdvnoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNeShptRN5_hh1gZ6G3Cv062Bpogfja4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809934640455-60oldpoqpfj0c42r6mhb9virefvdvnoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

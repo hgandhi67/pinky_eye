@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "809934640455",
+    "firebase_url": "https://pinkyeye-39fab.firebaseio.com",
+    "project_id": "pinkyeye-39fab",
+    "storage_bucket": "pinkyeye-39fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809934640455:android:9de3b8c0920940e12e2862",
+        "android_client_info": {
+          "package_name": "com.data245.pinkyeye.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809934640455-h87ciopid0f4nobjv9nfud1d28540vgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.data245.pinkyeye.app",
+            "certificate_hash": "2d2ca2a702dcc676374cd1a654f170f9d5248f1a"
+          }
+        },
+        {
+          "client_id": "809934640455-8uvqcfqir4hpcp14qmmqqrm7ciik1tjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.data245.pinkyeye.app",
+            "certificate_hash": "e81a459467d9a1fd906f2cac7273e3c5232d7200"
+          }
+        },
+        {
+          "client_id": "809934640455-60oldpoqpfj0c42r6mhb9virefvdvnoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNeShptRN5_hh1gZ6G3Cv062Bpogfja4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809934640455-60oldpoqpfj0c42r6mhb9virefvdvnoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809934640455-76lo9ottgail54jtjp8eq8r79839rtve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.data245.pinkyeye.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
